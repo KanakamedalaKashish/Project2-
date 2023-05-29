@@ -46,7 +46,7 @@ nav ul li a{
   position: absolute;
   left: 6%;
   top: calc(50% - 250px);
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
 .headcontent h2{
   z-index: 3;
